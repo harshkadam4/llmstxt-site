@@ -1,4 +1,14 @@
 [
+
+   {
+        "product": "AiSuperSmart",
+        "website": "https://www.aisupersmart.com/",
+        "llms-full-txt": "https://www.aisupersmart.com/llms-full.txt",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://www.aisupersmart.com/llms.txt",
+        "llms-txt-tokens": null
+   },
+   
    {
         "product": "Bika.ai",
         "website": "https://bika.ai/",
